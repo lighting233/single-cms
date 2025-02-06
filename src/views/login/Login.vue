@@ -5,6 +5,7 @@
 </template>
 
 <script setup lang="ts">
+//commitizen
 import LoginPanel from './c-cpns/login-panel.vue'
 </script>
 
